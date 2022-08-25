@@ -1,7 +1,7 @@
 ## Hey!! Eu sou a Mari Melo! 
 
 
-- 🔭 Sou aluna o bootcamp Generation Brasil!
+- 🔭 Sou aluna do bootcamp Generation Brasil!
 - 🌱 Atualmente, estou estudando a linguagem de programação JAVA Fullstack. 
 - 😄 Pronomes: ela/dela 
 
@@ -17,7 +17,7 @@
 <img height = "90em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img height = "90em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img height = "70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-
-
-
 </div>
+
+ 
+ 
