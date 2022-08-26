@@ -1,4 +1,4 @@
-## Hey, Eu sou a Mari! 
+## Hey, eu sou a Mari! 
 
 - 🔭 Sou aluna do bootcamp da Generation Brasil e, atualmente, estou estudando a linguagem de programação JAVA.
 - 😄 Pronomes: ela/dela 
