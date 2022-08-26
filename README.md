@@ -1,8 +1,7 @@
-## Hey!! Eu sou a Mari Melo! 
+## Hey, Eu sou a Mari! 
 
-
-- 🔭 Sou aluna do bootcamp Generation Brasil!
-- 🌱 Atualmente, estou estudando a linguagem de programação JAVA Fullstack. 
+- 
+- 🔭 Sou aluna do bootcamp Generation Brasil e, atualmente, estou estudando a linguagem de programação JAVA.
 - 😄 Pronomes: ela/dela 
 
 
