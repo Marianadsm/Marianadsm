@@ -24,8 +24,9 @@
 <img height = "60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img height = "60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img height = "60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
 </div>
+  <br>
+  <br>
   <br>
   <br>
 <div align="center" >
