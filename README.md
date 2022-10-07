@@ -5,14 +5,6 @@
 - 😄 Pronomes: ela/dela.
 <img align="right" height = "400" widht="400em" src=https://i.imgur.com/tIo4Jz7.png />
 
-<div align="left" justifyContent="center"> 
-<h2> Contato:</h2>
-<a href="https://linkedin.com/in/Marianadsm">
-  <img height="50rem" widht="50rem" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/>
-<a href = "mailto:mariana.dsm@hotmail.com">
-  <img height="50rem" widht="50rem" src="https://cdn-icons-png.flaticon.com/512/3296/3296467.png">
- <br>
- </div>
  <h2> Habilidades Técnicas: </h2>
  <div>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
@@ -26,6 +18,14 @@
 <img height = "50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img height = "50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
+<div align="left" justifyContent="center"> 
+<h2> Contato:</h2>
+<a href="https://linkedin.com/in/Marianadsm">
+  <img height="50rem" widht="50rem" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/>
+<a href = "mailto:mariana.dsm@hotmail.com">
+  <img height="50rem" widht="50rem" src="https://cdn-icons-png.flaticon.com/512/3296/3296467.png">
+ <br>
+ </div>
   <br>
   <h1></h1>
   <br>
