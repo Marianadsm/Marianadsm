@@ -1,6 +1,6 @@
 ## Hey, eu sou a Mari! 
 
-- 🔭 Web dev. Full Stack Jr. 
+- 🔭 Junior fullstack web developer
 - 🖥 Estudante de desenvolvimento Java pelo Bootcamp Generation.
 - 😄 Pronomes: ela/dela 
 <img align="right" height = "400" widht="400em" src=https://i.imgur.com/tIo4Jz7.png />
