@@ -29,9 +29,9 @@
   <h1></h1>
 <div align="center" >
 <a href="https://github.com/Marianadsm">
-  <img height="150em" widht="150em" src="https://github-readme-stats.vercel.app/api?username=Marianadsm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="center height="150em" widht="150em" src="https://github-readme-stats.vercel.app/api?username=Marianadsm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <br>
-  <img height="150em" widht="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marianadsm&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="center" height="150em" widht="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marianadsm&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
