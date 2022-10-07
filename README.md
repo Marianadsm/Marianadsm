@@ -26,7 +26,6 @@
   <img height="50rem" widht="50rem" src="https://cdn-icons-png.flaticon.com/512/3296/3296467.png">
  </div>
   <h1></h1>
-  <br>
 <div align="center" >
 <a href="https://github.com/Marianadsm">
   <img align="left" height="150em" widht="100em" src="https://github-readme-stats.vercel.app/api?username=Marianadsm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
