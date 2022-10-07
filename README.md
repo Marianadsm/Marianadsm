@@ -27,8 +27,8 @@
 <img height = "50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
   <br>
-  <br>
   <h1></h1>
+  <br>
 <div align="center" >
 <a href="https://github.com/Marianadsm">
   <img align="center" height="150em" widht="150em" src="https://github-readme-stats.vercel.app/api?username=Marianadsm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
