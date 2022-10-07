@@ -1,6 +1,7 @@
 ## Hey, eu sou a Mari! 
 
-- 🔭 Sou aluna do bootcamp da Generation Brasil e, atualmente, estou estudando a linguagem de programação JAVA.
+- 🔭 Dev. Web Full Stack Jr. 
+- 🖥 Estudante de desenvolvimento Java pelo Bootcamp Generation.
 - 😄 Pronomes: ela/dela 
 <img align="right" height = "400" widht="400em" src=https://i.imgur.com/tIo4Jz7.png />
 
