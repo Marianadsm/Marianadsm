@@ -26,7 +26,7 @@
 <img height = "50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img height = "50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
-  <br>
+ 
   <br>
  
   <h1></h1>
