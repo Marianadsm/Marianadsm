@@ -5,7 +5,7 @@
 <img align="right" height = "400" widht="400em" src=https://i.imgur.com/tIo4Jz7.png />
 
 <div align="left" justifyContent="center"> 
-<h2> Contatos</h2>
+<h2> Contatos:</h2>
 <a href="https://linkedin.com/in/Marianadsm">
   <img height="50rem" widht="50rem" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/>
 <a href = "mailto:mariana.dsm@hotmail.com">
