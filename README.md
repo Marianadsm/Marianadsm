@@ -4,7 +4,6 @@
 - 🖥 Estudante de desenvolvimento Java pelo Bootcamp Generation;
 - 😄 Pronomes: ela/dela.
 <img align="right" height = "400" widht="400em" src=https://i.imgur.com/tIo4Jz7.png />
-
  <h2> Habilidades Técnicas: </h2>
  <div>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
@@ -26,10 +25,9 @@
   <img height="50rem" widht="50rem" src="https://cdn-icons-png.flaticon.com/512/3296/3296467.png">
  </div>
   <h1></h1>
-<div align="center" >
+<div align="left" >
 <a href="https://github.com/Marianadsm">
-  <img align="left" height="150em" widht="100em" src="https://github-readme-stats.vercel.app/api?username=Marianadsm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <br>
+  <img align="left" height="150em" widht="100em" src="https://github-readme-stats.vercel.app/api?username=Marianadsm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/
   <img align="left" height="150em" widht="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marianadsm&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
