@@ -1,8 +1,8 @@
 ## Hey, eu sou a Mari! 
 
-- 🔭 Junior fullstack web developer
-- 🖥 Estudante de desenvolvimento Java pelo Bootcamp Generation.
-- 😄 Pronomes: ela/dela 
+- 🔭 Junior fullstack web developer;
+- 🖥 Estudante de desenvolvimento Java pelo Bootcamp Generation;
+- 😄 Pronomes: ela/dela.
 <img align="right" height = "400" widht="400em" src=https://i.imgur.com/tIo4Jz7.png />
 
 <div align="left" justifyContent="center"> 
@@ -30,7 +30,7 @@
   <h1></h1>
 <div align="center" >
 <a href="https://github.com/Marianadsm">
-  <img align="center height="150em" widht="150em" src="https://github-readme-stats.vercel.app/api?username=Marianadsm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="center height="100em" widht="100em" src="https://github-readme-stats.vercel.app/api?username=Marianadsm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <br>
   <img align="center" height="150em" widht="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marianadsm&layout=compact&langs_count=7&theme=dracula"/>
 </div>
