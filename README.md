@@ -1,4 +1,4 @@
-<h1> hey! eu sou a <span style="background-color: #FFFF00">Mari</span>!</h1>
+<h1> Oi! eu sou a <span style="background-color: #FFFF00">Mari</span>!</h1>
 
 - 🔭 Junior fullstack web developer;
 - 🖥 Estudante de desenvolvimento Java pelo Bootcamp Generation;
